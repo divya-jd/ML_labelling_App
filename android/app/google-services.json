@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038779838902",
+    "project_id": "mllabelling",
+    "storage_bucket": "mllabelling.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038779838902:android:dab09be03adb9375031117",
+        "android_client_info": {
+          "package_name": "com.example.labelling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdD16bDXD1_y6_tPdnfKKMPCQ5gBftGjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
